@@ -1,5 +1,7 @@
 # 爬虫爬取简书最近文章和热门文章，并用Django REST framework 生成api
 ## 使用
+### 安装依赖环境
+pip instakk -r requirement.txt
 ### 进入虚拟环境
 source venv/bin/active
 ### 在MySQL中创建jianshu数据库
