@@ -1,0 +1,9 @@
+django
+MySQL-python
+BeautifulSoup==3.2.1
+beautifulsoup4==4.5.0
+requests==2.10.0
+colorama==0.3.7
+djangorestframework
+markdown
+django-filter
